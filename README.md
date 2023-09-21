@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sahan De Fonseka
 ========================================================================================================================================
 
-Computer Science Undergraduate | Full Stack Enthusiast | 🌐 Passionate C++ Programmer
+Computer Science Undergraduate | Aspiring Software Engineer | 🌐 Passionate C++ Programmer
 -------------------------------------------------------------------------------------
 
 I'm a 3rd year Computer Science Undergraduate passionate about technology. I love reading about new technologies in the industry as well as public speaking which helps presenting my ideas thoughtfully.
