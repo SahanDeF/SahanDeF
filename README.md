@@ -1,4 +1,4 @@
-Hi 👋🏽, My name is Sahan De Fonseka
+Hi 👋🏽 My name is Sahan De Fonseka
 ========================================================================================================================================
 
 Computer Science Undergraduate | Aspiring Software Engineer | 🌐 Passionate C++ Programmer
